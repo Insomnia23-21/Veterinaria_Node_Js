@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Darry",
+    "edad": "3 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "mareos"
+  },
+  {
+    "nombre": "Tyrion",
+    "edad": "1 año",
+    "animal": "rata",
+    "color": "amarillo",
+    "enfermedad": "gases"
+  }
+]
